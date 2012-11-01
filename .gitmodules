@@ -25,3 +25,9 @@
 [submodule "modules/minion"]
 	path = modules/minion
 	url = http://github.com/kohana/minion.git
+[submodule "system"]
+	path = system
+	url = git@github.com:pgasidlo/kohana-system.git
+[submodule "modules/qdatabase"]
+	path = modules/qdatabase
+	url = git@github.com:pgasidlo/kohana-qdatabase.git
